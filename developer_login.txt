@@ -1,0 +1,7 @@
+:Developer Credential::
+URL: http://localhost:8000/developer/eDS92vgADNscNRiq/login
+Username: Au6ST
+Password: OPAUQH91yTwbVL2S
+--
+Homepage : http://crudbooster.com
+Github : https://github.com/crocodic-studio/crudbooster
